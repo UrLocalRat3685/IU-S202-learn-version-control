@@ -33,6 +33,12 @@
     "commonName": "Harbor Seal",
     "scientificName": "Phoca vitulina",
     "habitat": "Coastal waters, bays, estuaries, and beaches in the Northern Hemisphere",
-    "description": "A medium-sized seal known for its spotted coat, dog-like face, and shy behavior. Harbor seals are excellent swimmers and spend much of their time in the     water, coming ashore to rest and raise pups."
+    "description": "A medium-sized seal known for its spotted coat, dog-like face, and shy behavior. Harbor seals are excellent swimmers and spend much of their time in the water, coming ashore to rest and raise pups."
+  }
+  {
+    "commonName": "Pomeranian",
+    "scientificName": "Canis lupus familiaris",
+    "habitat": "Domesticated; commonly found in household environments around the world",
+    "description": "A silly, fluffy dog breed known for its lively personality, fox-like face, and thick double coat. Pomeranians are intelligent, alert, and affectionate, often display a bold and confident demeanor despite their small size."
   }
 ]
