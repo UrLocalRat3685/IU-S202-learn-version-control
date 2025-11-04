@@ -29,4 +29,10 @@
     "habitat": "Australian deserts and open grasslands",
     "description": "The largest marsupial, using powerful hind legs for hopping and a strong tail for balance."
   }
+  {
+    "commonName": "Harbor Seal",
+    "scientificName": "Phoca vitulina",
+    "habitat": "Coastal waters, bays, estuaries, and beaches in the Northern Hemisphere",
+    "description": "A medium-sized seal known for its spotted coat, dog-like face, and shy behavior. Harbor seals are excellent swimmers and spend much of their time in the     water, coming ashore to rest and raise pups."
+  }
 ]
